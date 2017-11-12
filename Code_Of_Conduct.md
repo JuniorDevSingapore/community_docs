@@ -41,7 +41,6 @@ We do not tolerate harassment of participants in any form! The following behavio
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organiser immediately in person for immediate action. Alternatively, after the incident you can contact the JuniorDev team at any time through the following channels…
 
 * Email us at hello@juniordev.io
-* DM on Meetup
 * DM on Twitter @juniordev_io
 
 If a participant engages in harassing behaviour, the organisers will take any action they deem appropriate, including verbal warning, suspension or expulsion from the community and event venue.
