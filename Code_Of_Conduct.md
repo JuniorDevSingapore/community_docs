@@ -8,7 +8,7 @@ We’re all about being buds! This community started with the intention to bring
 
 * Don’t stand in closed circles. It can be hard enough approaching strangers without physical barriers. Try to not stand in circles that don’t let any new people in.
 * Talk to someone you don’t know. Hopefully you’ve made friends in the JuniorDev community, but there was probably a point before you knew faces in the crowd. Make newbie’s feel welcome by saying hi!
-* No dissing tech stacks. Let’s leave the trash talk to the trolls. JuniorDev isn’t aligned to any particular tech and we like to treat all stacks with (heart emoji)... and yes, that of course includes Javascript (stick out tongue emoji).
+* No dissing tech stacks. Let’s leave the trash talk to the trolls. JuniorDev isn’t aligned to any particular tech and we like to treat all stacks with :heart: ... and yes, that of course includes Javascript :stuck_out_tongue_closed_eyes:
 
 ## Tl;dr
 
@@ -26,7 +26,7 @@ Our community is dedicated to providing a harassment-free experience for everyon
 * Religion (or lack thereof)
 * Technology choices
 
-We do not tolerate harassment of participants in any form! The following behaviour will not be tolerated (no deal emoji)...
+We do not tolerate harassment of participants in any form! The following behaviour will not be tolerated :no_good: ...
 
 * Use of sexual language and imagery.
 * Deliberate intimidation.
