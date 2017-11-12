@@ -1,6 +1,6 @@
 # JuniorDev Community Code Of Conduct
 
-The following has been copied from influenced by other communities we respect and believe hold strong values. It’s alive! This is a living doc so please let us know at hello@juniordev.io if you have any thoughts. This code applies to all JuniorDev initiatives both online and irl. Organisers will adhere to this code throughout all the JuniorDev thingz and we expect cooperation from all participants to help ensure a safe environment for e.v.e.r.y.b.o.d.y!
+The following has been ~~copied from~~ influenced by other communities we respect and believe hold strong values. It’s alive! This is a living doc so please let us know at hello@juniordev.io if you have any thoughts. This code applies to all JuniorDev initiatives both online and irl. Organisers will adhere to this code throughout all the JuniorDev thingz and we expect cooperation from all participants to help ensure a safe environment for e.v.e.r.y.b.o.d.y!
 
 ## Some dos before the don’ts
 
